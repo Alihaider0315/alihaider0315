@@ -1,7 +1,7 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Muhammad Ali Haider </h1>
-
-<img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/>
-
+<div style="text-align:center">
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+</div>
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
    👋 Passionate Web Developer ✨ Crafting Impactful Digital Experiences 💻
 
@@ -31,7 +31,7 @@ Thank you for visiting! Let's create something extraordinary together!
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 <div align="center" style="display:block;">
-    <img width="100px" alt="Programming Languages" src="[https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png]"/> 
+    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
 <br>   
 <!-- Icons Resources -->
@@ -61,7 +61,6 @@ Thank you for visiting! Let's create something extraordinary together!
       <img  alt="Sass" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
   </a>
    
- 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img  alt="firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
   </a>
@@ -69,9 +68,7 @@ Thank you for visiting! Let's create something extraordinary together!
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </a>
-  <a href="https://www.graphql.com/" target="_blank" rel="noreferrer">
-      <img  alt="GraphQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
-  </a>
+  
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img  alt="MongoDB" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   </a>
@@ -86,9 +83,10 @@ Thank you for visiting! Let's create something extraordinary together!
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a>
  
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
+  <a href="https://www.wordpress.com/" target="_blank" rel="noreferrer">
+      <img  alt="wordpress" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/> 
   </a>
+          
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
   </a>
