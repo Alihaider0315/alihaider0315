@@ -1,7 +1,4 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Muhammad Ali Haider </h1>
-<div style="text-align:center">
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
-</div>
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
    👋 Passionate Web Developer ✨ Crafting Impactful Digital Experiences 💻
 
@@ -98,7 +95,8 @@ Thank you for visiting! Let's create something extraordinary together!
 <br>
 <br>
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alihaider0315&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Statistics -->
 
@@ -123,11 +121,8 @@ Thank you for visiting! Let's create something extraordinary together!
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alihaider0315&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alihaider0315) 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alihaider0315&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
