@@ -16,7 +16,7 @@ Discover my repositories filled with meticulously crafted websites that leave a 
 If you're seeking a skilled collaborator for exciting projects, look no further. Reach out to discuss potential collaborations or simply connect with me on other platforms. Together, we can make a meaningful impact through technology.
 
 ✉️ Contact Me: ah712200@gmail.com
-📲 LinkedIn: (https://linkedin.com/in/ali-haider-8756a9208)
+📲 LinkedIn: (https://linkedin.com/in/alihaider0315)
 
 Thank you for visiting! Let's create something extraordinary together!
 <br>
@@ -90,6 +90,10 @@ Thank you for visiting! Let's create something extraordinary together!
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
   </a>
+ <a href="https://www.tailwind.com/" target="_blank" rel="noreferrer">
+      <img  alt="tailwind" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/> 
+  </a>
+  
 </div>
 <br>
 <br>
