@@ -123,7 +123,20 @@ Thank you for visiting! Let's create something extraordinary together!
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alihaider0315&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alihaider0315) 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alihaider0315&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=alihaider0315&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=alihaider0315&icon=2&color=3)](https://visitcount.itsvg.in)
 ---
 <!-- Begin Footer -->
 <!-- Icons Resources -->
